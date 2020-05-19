@@ -32,5 +32,6 @@ module.exports = {
     "space-before-function-paren": "off",
     "key-spacing": "off",
     "comma-spacing": "off",
+    eqeqeq: "off"
   }
 }
